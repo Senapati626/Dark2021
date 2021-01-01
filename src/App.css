@@ -16,6 +16,7 @@
   height: 10vh;
   background: rgb(19, 18, 18);
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   flex-direction: column;
@@ -25,9 +26,11 @@
   height: 80vh;
   background: rgb(19, 18, 18);
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  overflow: auto;
 }
 .header{
   color: aliceblue;
@@ -42,27 +45,25 @@
 
 .trivia{
   text-decoration: none;
-  margin: 3rem;
-  padding: 20px;
-  font-size: 3rem;
+  font-size: 2rem;
   color: bisque;
   align-self: center;
-  
+  padding: 0px 15px;
 }
 .trivia2{
-  margin: 2rem;
-  padding: 20px;
-  font-size: 3rem;
+  font-size: 2.5rem;
   color: bisque;
   align-self: center;
   transition-delay: 3s;
   animation: fade 3s;
+  padding: 0px 15px;
 }
 .footer{
   height: 10vh;
   background: rgb(19, 18, 18);
   color: bisque;
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
 
 }

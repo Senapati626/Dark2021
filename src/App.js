@@ -65,13 +65,13 @@ class App extends Component{
             <h1 className="header">Happy New Year, folks.</h1>
           </center>
           </div>
-          <div className="bg1">
+          <div className="bg1"><center>
             <p className="trivia" key={items.id}>
               {items.setup}
             </p>
             <p className="trivia2" key={items.id}>
               {items.delivery}
-            </p>
+            </p></center>
           </div>
           <div className="footer">
           <center>
