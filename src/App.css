@@ -1,0 +1,80 @@
+.App {
+  text-align: center;
+}
+
+.loading{
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 50%;
+  font-size: 2rem;
+  animation: loader 1s infinite alternate;
+  color: bisque;
+  background:  rgb(19, 18, 18);
+}
+.bg2{
+  height: 10vh;
+  background: rgb(19, 18, 18);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.bg1{
+  height: 80vh;
+  background: rgb(19, 18, 18);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.header{
+  color: aliceblue;
+
+}
+
+.wish{
+  font: 1rem sans-serif;
+  color: azure;
+
+}
+
+.trivia{
+  text-decoration: none;
+  margin: 3rem;
+  padding: 20px;
+  font-size: 3rem;
+  color: bisque;
+  align-self: center;
+  
+}
+.trivia2{
+  margin: 2rem;
+  padding: 20px;
+  font-size: 3rem;
+  color: bisque;
+  align-self: center;
+  transition-delay: 3s;
+  animation: fade 3s;
+}
+.footer{
+  height: 10vh;
+  background: rgb(19, 18, 18);
+  color: bisque;
+  display: flex;
+  justify-content: center;
+
+}
+@keyframes loader{
+  from {
+		transform: rotateZ(0deg);
+	}
+	to {
+  		transform: rotateZ(60deg);
+	}
+}
+@keyframes fade{
+  from {opacity: 0;}
+  to{opacity: 1;}
+}
