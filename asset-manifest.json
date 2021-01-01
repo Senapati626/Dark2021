@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Dark2021/static/css/main.68f50a4f.chunk.css",
-    "main.js": "/Dark2021/static/js/main.ab5c6755.chunk.js",
-    "main.js.map": "/Dark2021/static/js/main.ab5c6755.chunk.js.map",
+    "main.css": "/Dark2021/static/css/main.81b21b5f.chunk.css",
+    "main.js": "/Dark2021/static/js/main.61b41416.chunk.js",
+    "main.js.map": "/Dark2021/static/js/main.61b41416.chunk.js.map",
     "runtime-main.js": "/Dark2021/static/js/runtime-main.81e4f7df.js",
     "runtime-main.js.map": "/Dark2021/static/js/runtime-main.81e4f7df.js.map",
     "static/js/2.9da4b45d.chunk.js": "/Dark2021/static/js/2.9da4b45d.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.66d52ee0.chunk.js": "/Dark2021/static/js/3.66d52ee0.chunk.js",
     "static/js/3.66d52ee0.chunk.js.map": "/Dark2021/static/js/3.66d52ee0.chunk.js.map",
     "index.html": "/Dark2021/index.html",
-    "static/css/main.68f50a4f.chunk.css.map": "/Dark2021/static/css/main.68f50a4f.chunk.css.map",
+    "static/css/main.81b21b5f.chunk.css.map": "/Dark2021/static/css/main.81b21b5f.chunk.css.map",
     "static/js/2.9da4b45d.chunk.js.LICENSE.txt": "/Dark2021/static/js/2.9da4b45d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.81e4f7df.js",
     "static/js/2.9da4b45d.chunk.js",
-    "static/css/main.68f50a4f.chunk.css",
-    "static/js/main.ab5c6755.chunk.js"
+    "static/css/main.81b21b5f.chunk.css",
+    "static/js/main.61b41416.chunk.js"
   ]
 }
