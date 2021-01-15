@@ -12,7 +12,7 @@ class App extends Component{
   }
 
   componentDidMount() {
-    fetch("https://v2.jokeapi.dev/joke/Dark?type=twopart")
+    fetch("https://v2.jokeapi.dev/joke/Miscellaneous,Dark,Pun,Spooky?type=twopart")
       .then(response => {
          return response.json();
         })
